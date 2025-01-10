@@ -130,13 +130,13 @@ button:hover {
 @media (width < 4000px) {
   .section__container {
     padding: 10rem 1rem 5rem 1rem;
-    text-align: justify;
+    text-align: right;
     grid-template-columns: repeat(1, 1fr);
   }
   
   .section__container__index {
     padding: 10rem 1rem 5rem 1rem;
-    text-align: center;
+    text-align: right;
     grid-template-columns: repeat(1, 1fr);
   }
 
