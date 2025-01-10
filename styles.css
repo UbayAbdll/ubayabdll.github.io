@@ -7,7 +7,7 @@
   --text-dark: #1f2937;
   --text-light: #6b7280;
   --extra-light: #ffffea;
-  --max-width: 1200px;
+  --max-width: 4000px;
 }
 
 * {
@@ -127,7 +127,7 @@ button:hover {
   background-color: #fff4d5;
 }
 
-@media (width < 2560px) {
+@media (width < 4000px) {
   .section__container {
     padding: 10rem 1rem 5rem 1rem;
     text-align: justify;
